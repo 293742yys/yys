@@ -1,3 +1,8 @@
 [master （根提交） 5b842dd] Lab 2 commit
  1 file changed, 186 insertions(+)
  create mode 100755 monitor.sh
+[master 6914bc5] Lab 2 commit
+ 3 files changed, 92 insertions(+)
+ create mode 100644 .local.git.out
+ create mode 100644 .monitor.sh.swp
+ create mode 100755 README.md
